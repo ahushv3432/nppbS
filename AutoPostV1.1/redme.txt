@@ -1,0 +1,12 @@
+Настроить:
+bot_auch.py
+chat_list.py
+config.py
+main.py
+send_1.py
+
+Запустить: 
+bot_auch.py
+chat_list.py
+main.py
+send_1.py
