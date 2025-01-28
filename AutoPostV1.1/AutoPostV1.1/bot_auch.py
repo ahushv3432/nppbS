@@ -18,10 +18,10 @@ import sqlite3
 sessions = {}
 logging.basicConfig(level=logging.INFO)
  
-API_TOKEN = '1234'
-api_id = 1234
-api_hash = "1234"
-admin = 1234
+API_TOKEN = '7306839295:AAF-wE8aiOtk4P00SZBpVco8ZcJ4SKLUJNQ'
+api_id = 29004686
+api_hash = "1429956a31ddd9a9fdeeab0498e0a528"
+admin = 7801306401
 
 bot = Bot(token=API_TOKEN)
 
