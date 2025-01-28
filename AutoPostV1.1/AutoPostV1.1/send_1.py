@@ -14,10 +14,10 @@ import telebot
 from telebot import types, apihelper
 import os,random,shutil,subprocess
 
-TOKEN = '1234'
+TOKEN = '7306839295:AAF-wE8aiOtk4P00SZBpVco8ZcJ4SKLUJNQ'
 bot = telebot.TeleBot(TOKEN)
-API_ID = 1234
-API_HASH = '1234'
+API_ID = 29004686
+API_HASH = '1429956a31ddd9a9fdeeab0498e0a528'
 
 
 def proxis(id_akk):
