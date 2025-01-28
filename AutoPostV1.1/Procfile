@@ -1,6 +1,1 @@
-import subprocess
-
-
-files = ["main.py", "send_1.py", "chat_list.py"]  # файлы, которые нужно запустить
-for file in files:
-    subprocess.Popen(args=["start", "python", file], shell=True, stdout=subprocess.PIPE) 
+worker: python main.py && python send_1.py && python chat_list.py
