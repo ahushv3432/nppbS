@@ -1,5 +1,0 @@
-aiogram
-telebot
-telethon
-python-dateutil
-pysocks
