@@ -16,9 +16,9 @@ import chat_list
 from datetime import date
 from dateutil.relativedelta import relativedelta
 
-TOKEN = '1234'
+TOKEN = '7306839295:AAF-wE8aiOtk4P00SZBpVco8ZcJ4SKLUJNQ'
 bot = telebot.TeleBot(TOKEN)
-admin = 1234
+admin = 7801306401
 
 
 connection = sqlite3.connect('spam_baza.sqlite')
