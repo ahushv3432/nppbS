@@ -7,8 +7,8 @@ import re
 import sqlite3
 
 
-api_id = 1234
-api_hash = "1234"
+api_id = 29004686
+api_hash = "1429956a31ddd9a9fdeeab0498e0a528"
 
 
 
